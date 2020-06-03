@@ -1,15 +1,26 @@
-h1 {
-    color: blue;
+#titulo {
+    color: rgb(22, 255, 41);
     font-size: 15px;
+    border-bottom: 5px dotted blue;
+    border-radius: 5px;
+    background-color: red;
 }
-a {
-    color: green;
-    font-size: 30px;
+.texto {
+    color: red;
+    border-top: 5px dashed blue;
 }
-img {
+p {
+    border-right: 5px solid blue;
+}
+div{
+    background-color: rgb(22, 255, 41);
     width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    border: 3px solid darkgreen;
 }
-li {
-    font-weight: bold;
-    font-size: 30px;
+img{
+    border: 5px solid yellow;
+    border-radius: 30px;
+    overflow: hidden;
 }
