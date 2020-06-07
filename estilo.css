@@ -12,7 +12,7 @@
 p {
     border-right: 5px solid blue;
 }
-div{
+.bola{
     background-color: rgb(22, 255, 41);
     width: 200px;
     height: 200px;
@@ -23,4 +23,12 @@ img{
     border: 5px solid yellow;
     border-radius: 30px;
     overflow: hidden;
+}
+.exemplo {
+    border: 1px solid gold;
+    padding: 10px 50px ;
+    margin: 10px;
+}
+body{
+    margin: 0px;
 }
